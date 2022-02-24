@@ -62,7 +62,7 @@ if (isset($_POST["submit"])) {
                                    <option value="+91">+91</option>
                                    <option value="+92">+92</option>
                                    <option value="+234">+233</option>
-                                   <option value="+234">+234</option>
+                                   <!-- <option value="+234">+234</option> -->
                               </select>
 
                               <input type="text" class="form-control w-50" name="number" id="number"
